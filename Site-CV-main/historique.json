@@ -1,0 +1,28 @@
+[
+    {
+        "id":0,
+        "nom":"McDonalds",
+        "poste":"Equipier Polyvalent",
+        "description":"Job d'été pendant les vacances universitaires, poste principalement en cuisine",
+        "annee": 2013,
+        "image":"images/McDo.jpeg"
+    },
+
+    {
+        "id":1,
+        "nom":"BITZER Gmbh",
+        "poste":"Technicien d'atelier",
+        "description":"Stage de fin de DUT, effectué à l'étranger (Allemagne)",
+        "annee": 2014,
+        "image":"images/Bitzer.png"
+    },
+    
+    {
+        "id":2,
+        "nom":"BITZER France",
+        "poste":"Technico-commercial sédentaire",
+        "description":"Poste en CDI, en charge du support technique et commercial des clients de BITZER France",
+        "annee": 2023,
+        "image":"images/Bitzer.png"
+    }
+]

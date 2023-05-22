@@ -1,0 +1,117 @@
+.container {
+    margin-top : 3rem; 
+    margin-bottom: 3rem;
+}
+
+.sum-rea {
+height : 20vh; 
+background-color: rgb(120, 156, 120);
+display: flex;
+flex-direction: row;
+align-items: center; 
+justify-content: space-between;
+border-radius: 15px;
+margin-bottom: 2px; 
+}
+
+.sum-rea-change {
+    background : #2c3f50; 
+    color : white; 
+    border : black solid 0.5px;
+}
+
+i{
+    margin-right : 2rem; 
+    font-size : 1.5rem; 
+}
+
+h2 {
+    margin-left : 5rem; 
+}
+
+.det-rea{
+
+    background-color: whitesmoke; 
+    flex-direction: column;
+    align-items: center;
+    border : none; 
+    display: none;
+}
+
+.det-rea-change {
+    background-color: #34495E;;
+    color: white;
+}
+
+.det-rea-visible {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.imagerea {
+    height: 7rem;
+    width: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+}
+
+.texterea1 {
+text-align: justify;
+display: flex;
+flex-wrap: wrap;
+margin-right: 15rem;
+margin-left : 18rem;
+
+}
+
+.lienpostlinkedin {
+    margin-left: 18rem;
+    margin-right : 5rem; 
+    text-decoration: underline;
+}
+
+.lienDarkMode {
+    color: rgb(193, 193, 80);
+}
+
+.lienDarkMode:hover{
+    opacity: 60%;
+}
+
+.lienpostlinkedin:hover{
+    opacity: 60%;
+}
+
+@media screen and (max-width : 900px){
+
+	
+    .det-rea-visible {
+        display: flex;
+        flex-direction: column; 
+        flex-wrap: wrap;
+        align-items: center ;
+        margin-bottom: 2rem;
+        
+    }
+
+    .texterea1 {
+        margin-left: 2rem;
+        margin-right: 2rem;
+
+    }
+
+    .lienpostlinkedin {
+        margin-left: 2rem;
+        margin-right : 2rem; 
+        text-decoration: underline;
+    }
+
+    h2 {
+        margin-left : 2rem; 
+    }
+    
+}

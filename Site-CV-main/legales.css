@@ -1,0 +1,30 @@
+.contact {
+    text-align: start;
+    margin-left : 2rem; 
+}
+
+.legal {
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.corps {
+    text-align: justify;
+    margin-left: 3rem;
+    margin-right : 3rem; 
+}
+
+.p-change {
+    color: white;
+}
+
+.h1-change {
+    color: white;
+}
+
+.h2-change {
+color : white; 
+}

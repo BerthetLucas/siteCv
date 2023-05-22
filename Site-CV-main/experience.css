@@ -1,0 +1,106 @@
+.container {
+	height : 60vh; 
+}
+
+.hist {
+	margin: 8px;
+}
+
+.hist img {
+width: auto;
+height: 6em;
+margin-top : 2em;
+}
+
+.hist p {
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+.filterbutton {
+	background-color: #526f4e;
+    width: fit-content;
+    height: fit-content;
+	color: aliceblue;
+	font-size: large;
+	border: none;
+	border-radius: 15px;
+}
+
+.filterbutton-change {
+	background-color: #2c3f50;
+}
+
+.filterbutton2 {
+	background-color: #526f4e;
+    width: fit-content;
+    height: fit-content;
+	color: aliceblue;
+	font-size: large;
+	border: none;
+	border-radius: 15px;
+}
+
+.filterbutton2-change{
+	background-color: #2c3f50;
+}
+
+.filterbutton3 {
+	background-color: #526f4e;
+    width: fit-content;
+    height: fit-content;
+	color: aliceblue;
+	font-size: large;
+	border: none;
+	border-radius: 15px;
+}
+
+.filterbutton3-change{
+	background-color: #2c3f50;
+}
+
+
+.navbutton{
+display: flex;
+flex-direction: row;
+margin-top: 3em;
+margin-bottom: 2em;
+margin-left: 3em;
+gap: 1em;
+}
+
+.filterbutton:hover{
+	
+transform: scale(1.1, 1.1);
+opacity: 80%;
+
+}
+
+.filterbutton2:hover{
+	transform: scale(1.1, 1.1);
+	opacity: 80%;
+}
+
+.filterbutton3:hover{
+	transform: scale(1.1, 1.1);
+	opacity: 80%;
+}
+footer{
+	margin-top: 2em;
+}
+
+.h-change {
+	color: white;
+}
+
+.p-change {
+	color: white;
+}
+
+.couleur-paragraphe{
+	color: black;
+}
+
+.couleur-titre{
+	color: black;
+}

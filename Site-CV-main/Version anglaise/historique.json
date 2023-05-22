@@ -1,0 +1,28 @@
+[
+    {
+        "id":0,
+        "nom":"McDonalds",
+        "poste":"Restaurant employee",
+        "description":"Student job while University's summer holidays, job position mainly in the kitchen",
+        "annee": 2013,
+        "image":"images/McDo.jpeg"
+    },
+
+    {
+        "id":1,
+        "nom":"BITZER Gmbh",
+        "poste":"Workshop Techician",
+        "description":"Training to completed a degree in thermal engeenering, took place in Germany",
+        "annee": 2014,
+        "image":"images/Bitzer.png"
+    },
+    
+    {
+        "id":2,
+        "nom":"BITZER France",
+        "poste":"Technical and Sales engineer",
+        "description":"Full time position, in charge of technical and sales support for the BITZER France's customers",
+        "annee": 2023,
+        "image":"images/Bitzer.png"
+    }
+]
